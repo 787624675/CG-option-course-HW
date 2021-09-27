@@ -15,3 +15,7 @@ Visual Studio 可视化编程工具
 - 工具
 
 new -> 很多种类的模板 （MFC AppWizard）-> 项目名称、地址 ->OK
+
+### 编程日志
+
+- 稍微探索了一下，发现 CLineDrawingView::OnDraw(CDC* /*pDC*/) 是进行绘制的地方
